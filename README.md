@@ -1,12 +1,16 @@
 # CodeForGood2018
  Yet to complete
 
-PastCompetition  
+Past and Other Competition s 
 
 http://gohack2017.golangfoundation.org/  
 
 https://www.nowcoder.com/activity/iqiyi2017  
 
+Possible Framework
+Angular
+Angular.js
+Bootstrap
 
 OpenSourceLibrary  
 
