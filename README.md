@@ -10,18 +10,26 @@ https://www.nowcoder.com/activity/iqiyi2017
 
 Possible Framework  
 
-Angular
-Angular.js
-Bootstrap
-Express
+Angular  
+
+Angular.js  
+
+Bootstrap  
+
+Express  
+
 React + Redux  
 
 Possible Technology
 
-Java
-JavaScript
-HTML
-CSS
+Java  
+
+JavaScript  
+
+HTML  
+
+CSS  
+
 PHP
 
 OpenSourceLibrary  
